@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="userdb"></dbname>
+    <version value="2"></version>
+    <list>
+        <mapping class="us.mifeng.litepal03.mode.News" />
+        <mapping class="us.mifeng.litepal03.mode.Comment" />
+        <mapping class="us.mifeng.litepal03.mode.Introduction" />
+    </list>
+</litepal>
